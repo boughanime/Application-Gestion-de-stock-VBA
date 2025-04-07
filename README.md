@@ -81,7 +81,9 @@ Pour tous les traitements j’ai mis un message de validation afin d’avoir la 
 
 Pour savoir si la macro a fini de tourner, à la fin de son exécution j’ai mis un message indiquant son arrêt.
 
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/da6ca075-c850-4247-9eda-6f908418dc77)
+
 
 
 
