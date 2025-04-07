@@ -79,7 +79,9 @@ Voici la surface d’application gestion de stock et des exemples des fenêtres 
 ![image](https://github.com/user-attachments/assets/9301165c-4a50-467f-924e-747b0e5ff7a5)
 
 Pour tous les traitements j’ai mis un message de validation afin d’avoir la possibilité d’arrêter l’action si le bouton est enfoncé par erreur.
-![image](https://github.com/user-attachments/assets/75c915a5-a081-42d8-ba70-634404580d60)
+
+![image](https://github.com/user-attachments/assets/fb28a2ee-f76f-4671-9b0e-17682b6136b2)
+
 
 Pour savoir si la macro a fini de tourner, à la fin de son exécution j’ai mis un message indiquant son arrêt.
 
