@@ -15,6 +15,8 @@ Les fonctions principales de l’application devaient être :
 De plus lorsque le client demande l'état du stock, nous devons afficher le contenu du fichier avec la date actuelle de l'export dans le nom du fichier (par exemple : Astra Zeneca- état du stock le 07 04 2022.xlsx si la demande d'export est le 04/07/2022).
 
 ![image](https://github.com/user-attachments/assets/2c59e53d-4777-4210-b6de-f6caacfd21f5)
+![image](https://github.com/user-attachments/assets/e2382c84-34b3-468c-b6b4-a4daec4c0120)
+
 
 #Les produits
 Pour chaque produit, on souhaite connaître :
